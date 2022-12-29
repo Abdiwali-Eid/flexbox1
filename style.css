@@ -191,3 +191,26 @@ a{
     border: 0;
     
 }
+@media screen and (max-width: 1200px) {
+   .nav ul{
+       display: inline-block;
+       margin-right: 300px;
+       
+   }
+   .tesmonial{
+    display: inline-block;
+   align-items: center;
+   align-content: center;
+   }
+   .card1{
+   display: inline-block;
+   margin-left: 80px;
+   }
+}
+
+
+/* @media screen and (max-width: 980px) {
+    .nav ul{
+        display: block;
+        align-items: center;
+    } */
